@@ -1,0 +1,6 @@
+{
+  "name": "AgroSmart AI",
+  "description": "AI-powered crop recommendation and smart agriculture assistant using soil and climate data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
